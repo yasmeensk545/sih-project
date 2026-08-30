@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Benefits Navigator",
+  "description": "Discover Indian government schemes and benefits tailored to your personal profile with deterministic eligibility scoring, AI Benefits Copilot, and application tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
